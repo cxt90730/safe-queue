@@ -1,0 +1,1 @@
+It's a thread safe ring-buffer queue. Referenced by https://github.com/eapache/queue.
